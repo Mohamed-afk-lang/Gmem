@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Node / static site hosts
+node_modules/
+.DS_Store
+Thumbs.db
